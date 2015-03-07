@@ -1,2 +1,2 @@
 # datasciencecoursera
-Created for a coursera course project.
+Created for JHU Data Science coursera course project.
