@@ -9,4 +9,5 @@ I am retaking the JHU Coursera course "The Data Scientist¡¯s Toolbox", because I
 My previous git account username is shuai114, and my new git account username is wslw77. If you see those two authors, they are actually both me. Thank you very much in advance!
 
 Yours sincerely,
+
 Shuai Wang
